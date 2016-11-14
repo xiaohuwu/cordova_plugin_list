@@ -1,0 +1,2 @@
+# cordova_plugin_list
+cordova_plugin_list
